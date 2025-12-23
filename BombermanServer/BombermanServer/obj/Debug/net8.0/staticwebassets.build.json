@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qqDgwNydrI5Jg7YSDg+rsBFkiCBDMtLY5TD87UyN29c=",
+  "Source": "BombermanServer",
+  "BasePath": "_content/BombermanServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
