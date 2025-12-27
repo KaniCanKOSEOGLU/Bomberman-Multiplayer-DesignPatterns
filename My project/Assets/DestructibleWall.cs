@@ -7,8 +7,7 @@ public class DestructibleWall : MonoBehaviour
     public Color damageColor = Color.red;
 
     [Header("Loot Sistemi")]
-    // ESKÝSÝ: public GameObject powerUpPrefab;
-    // YENÝSÝ: Dizi (Array) yapýyoruz ki birden fazla iksir koyabilelim
+    // Dizi (Array) yapýyoruz ki birden fazla iksir koyabilelim
     public GameObject[] powerUpPrefabs;
 
     [Range(0, 100)] public int dropChance = 30;

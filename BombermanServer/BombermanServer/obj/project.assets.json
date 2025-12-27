@@ -2737,11 +2737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\BombermanServer.csproj",
+      "projectUniqueName": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\BombermanServer.csproj",
       "projectName": "BombermanServer",
-      "projectPath": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\BombermanServer.csproj",
+      "projectPath": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\BombermanServer.csproj",
       "packagesPath": "C:\\Users\\Kani Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\obj\\",
+      "outputPath": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

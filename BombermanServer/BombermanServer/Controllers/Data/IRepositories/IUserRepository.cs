@@ -8,7 +8,6 @@ namespace BombermanServer.Data.IRepositories
         Task<IEnumerable<User>> GetLeaderboardAsync();
         Task AddUserAsync(User user);
         Task SaveChangesAsync();
-        // UpdateUserStatsAsync gibi metotlara gerek kalmadı,
-        // çünkü EF Core değişiklikleri SaveChangesAsync ile otomatik takip ediyor.
+        
     }
 }

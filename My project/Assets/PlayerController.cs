@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        // 1. GÝRDÝLERÝ AL
+        // 1. GÝRDÝLERÝ ALMA
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
         inputDir = new Vector2(moveX, moveY).normalized;

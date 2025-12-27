@@ -26,7 +26,7 @@ public class MyGameManager : MonoBehaviour
         {
             ShowGameOver("KAYBETTÝN!", Color.red);
 
-            // Ýstatistik: Kaybetme bilgisini sunucuya gönder
+            // Ýstatistik: Kaybetme bilgisini sunucuya gönderir
             if (NetworkManager.instance != null) NetworkManager.instance.SendLoss();
 
             if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.lose);
@@ -36,7 +36,7 @@ public class MyGameManager : MonoBehaviour
         {
             ShowGameOver("KAZANDIN!", Color.green);
 
-            // Ýstatistik: Kazanma bilgisini sunucuya gönder
+            // Ýstatistik: Kazanma bilgisini sunucuya gönderir
             if (NetworkManager.instance != null) NetworkManager.instance.SendWin();
 
             if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.win);

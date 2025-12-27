@@ -55,14 +55,14 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// CORS politikasýný uygula
+// CORS politikasýný uygulama
 app.UseCors("AllowUnity");
 
 app.UseAuthorization();
 
 app.MapControllers();
 
-// SignalR Hub'ý /gameHub adresine eþle
+// SignalR Hub'ý /gameHub adresine eþleme
 app.MapHub<GameHub>("/gameHub");
 
 app.Run();

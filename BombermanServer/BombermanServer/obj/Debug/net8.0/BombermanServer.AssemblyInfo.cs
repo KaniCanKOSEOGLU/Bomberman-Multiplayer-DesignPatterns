@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BombermanServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2d6341da236c40b224fc77e4f30411b06eb9a5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BombermanServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BombermanServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

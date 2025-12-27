@@ -22,11 +22,11 @@ public class PowerUpPickup : MonoBehaviour
                     player.IncreaseBombRange();
                 }
 
-                // Ses Çal
+                // Ses Çalma
                 if (AudioManager.instance != null)
                     AudioManager.instance.PlaySFX(AudioManager.instance.powerUp);
 
-                // Ýksiri yok et
+                // Ýksiri yok etme
                 Destroy(gameObject);
             }
         }

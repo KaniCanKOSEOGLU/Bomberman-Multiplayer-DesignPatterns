@@ -42,15 +42,14 @@ namespace BombermanServer.Hubs
             await Clients.Caller.SendAsync("RegisterSuccess", "Kayıt başarılı! Giriş yapabilirsiniz.");
         }
 
-        // --- 2. GİRİŞ YAP (Basit Hali) ---
+        // --- 2. GİRİŞ YAP  ---
         public async Task Login(string username, string password)
         {
-            // Tekil oturum kontrolünü kaldırdık, veritabanı kilitlenmesin diye.
             var user = await _userRepository.GetUserByUsernameAsync(username);
 
             if (user != null && user.PasswordHash == password)
             {
-                // Sadece İsim ve Puan gönderiyoruz (Tema ve Seed yok, kafa karışıklığı olmasın)
+                // Sadece İsim ve Puan gönderiyoruz
                 await Clients.Caller.SendAsync("LoginSuccess", user.Username, user.Wins);
             }
             else

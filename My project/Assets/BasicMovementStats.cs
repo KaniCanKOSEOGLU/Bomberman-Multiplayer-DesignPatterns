@@ -9,6 +9,6 @@ public class BasicMovementStats : IMovementStats
 
     public float GetSpeed()
     {
-        return baseSpeed; // Normal hýz neyse onu döndür
+        return baseSpeed; // Normal hýz neyse onu döndürür
     }
 }

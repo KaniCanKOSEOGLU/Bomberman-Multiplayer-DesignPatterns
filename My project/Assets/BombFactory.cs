@@ -12,7 +12,7 @@ public class BombFactory : MonoBehaviour
     {
         GameObject bomb = Instantiate(bombPrefab, position, Quaternion.identity);
 
-        // Menzil bilgisini bombanýn üzerindeki kontrole aktar
+        // Menzil bilgisini bombanýn üzerindeki kontrole aktarýr
         BombController controller = bomb.GetComponent<BombController>();
         if (controller != null)
         {

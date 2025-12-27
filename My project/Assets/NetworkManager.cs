@@ -24,8 +24,6 @@ public class NetworkManager : MonoBehaviour
     public BombFactory bombFactory;
     public GameObject remotePlayer;
 
-    // ThemeManager'ý buradan kaldýrdýk, kafa karýþtýrmasýn.
-
     private HubConnection connection;
     private IDataSaver dataSaver;
 

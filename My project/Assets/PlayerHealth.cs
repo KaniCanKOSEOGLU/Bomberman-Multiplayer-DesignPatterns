@@ -56,7 +56,7 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log($"{gameObject.name} Öldü!");
 
-        // Ölüm olayýný yayýnla (GameManager bunu duyup oyunu bitirecek)
+        // Ölüm olayýný yayýnlama (GameManager bunu duyup oyunu bitirecek)
         // gameObject.tag sayesinde kimin öldüðünü ("Player" mý "RemotePlayer" mý) bildiriyoruz.
         GameEventManager.TriggerPlayerDeath(gameObject.tag);
 

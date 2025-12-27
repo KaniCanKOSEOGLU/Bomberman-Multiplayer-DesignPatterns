@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\",
+  "WorkspaceRootPath": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\controllers\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\controllers\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\controllers\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\controllers\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\controllers\\data\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\controllers\\data\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\properties\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\properties\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\properties\\models\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\properties\\models\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\migrations\\20251126164337_addthemepreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\migrations\\20251126164337_addthemepreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\migrations\\20251118213849_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\migrations\\20251118213849_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\migrations\\20251118213849_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\bombermanserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\bombermanserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\c #\\bombermanserver\\bombermanserver\\migrations\\20251126164337_addthemepreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\migrations\\20251126164337_addthemepreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\controllers\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\controllers\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\controllers\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\controllers\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\controllers\\data\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\controllers\\data\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\properties\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\properties\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\properties\\models\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\properties\\models\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|c:\\users\\kani can\\onedrive\\desktop\\bomberman_multiplayer_project\\bombermanserver\\bombermanserver\\bombermanserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73B86AE5-C13C-4248-8180-65B7FE8D8423}|BombermanServer\\BombermanServer.csproj|solutionrelative:bombermanserver\\bombermanserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,137 +54,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\appsettings.json",
               "RelativeDocumentMoniker": "BombermanServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\appsettings.json",
               "RelativeToolTip": "BombermanServer\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-18T19:20:35.371Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Controllers\\Data\\IRepositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "BombermanServer\\Controllers\\Data\\IRepositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Controllers\\Data\\IRepositories\\IUserRepository.cs",
-              "RelativeToolTip": "BombermanServer\\Controllers\\Data\\IRepositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20251126164337_AddThemePreference.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Migrations\\20251126164337_AddThemePreference.cs",
+              "RelativeDocumentMoniker": "BombermanServer\\Migrations\\20251126164337_AddThemePreference.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Migrations\\20251126164337_AddThemePreference.cs",
+              "RelativeToolTip": "BombermanServer\\Migrations\\20251126164337_AddThemePreference.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:18:37.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Properties\\Models\\User.cs",
-              "RelativeDocumentMoniker": "BombermanServer\\Properties\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Properties\\Models\\User.cs",
-              "RelativeToolTip": "BombermanServer\\Properties\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:15:47.286Z"
+              "WhenOpened": "2025-11-26T16:43:37.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Program.cs",
+              "RelativeDocumentMoniker": "BombermanServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Program.cs",
+              "RelativeToolTip": "BombermanServer\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:00:59.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Controllers\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BombermanServer\\Controllers\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Controllers\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BombermanServer\\Controllers\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:16:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Controllers\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BombermanServer\\Controllers\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Controllers\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BombermanServer\\Controllers\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:19:46.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Properties\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BombermanServer\\Properties\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Properties\\Models\\User.cs",
+              "RelativeToolTip": "BombermanServer\\Properties\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:15:47.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HighScore.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Properties\\Models\\HighScore.cs",
+              "RelativeDocumentMoniker": "BombermanServer\\Properties\\Models\\HighScore.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Properties\\Models\\HighScore.cs",
+              "RelativeToolTip": "BombermanServer\\Properties\\Models\\HighScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:28:44.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251118213849_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Migrations\\20251118213849_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BombermanServer\\Migrations\\20251118213849_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Migrations\\20251118213849_InitialCreate.cs",
+              "RelativeToolTip": "BombermanServer\\Migrations\\20251118213849_InitialCreate.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:38:49.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GameHub.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Hubs\\GameHub.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Hubs\\GameHub.cs",
               "RelativeDocumentMoniker": "BombermanServer\\Hubs\\GameHub.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Hubs\\GameHub.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Hubs\\GameHub.cs",
               "RelativeToolTip": "BombermanServer\\Hubs\\GameHub.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwGsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwDMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T19:36:24.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Controllers\\Data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "BombermanServer\\Controllers\\Data\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Controllers\\Data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "BombermanServer\\Controllers\\Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Controllers\\Data\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BombermanServer\\Controllers\\Data\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\Controllers\\Data\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "BombermanServer\\Controllers\\Data\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:19:46.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Controllers\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BombermanServer\\Controllers\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Controllers\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BombermanServer\\Controllers\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:16:50.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Program.cs",
-              "RelativeDocumentMoniker": "BombermanServer\\Program.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Program.cs",
-              "RelativeToolTip": "BombermanServer\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAEMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:00:59.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20251118213849_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Migrations\\20251118213849_InitialCreate.cs",
-              "RelativeDocumentMoniker": "BombermanServer\\Migrations\\20251118213849_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Migrations\\20251118213849_InitialCreate.cs",
-              "RelativeToolTip": "BombermanServer\\Migrations\\20251118213849_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T21:38:49.316Z"
+              "WhenOpened": "2025-11-18T19:18:37.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "20251126164337_AddThemePreference.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Migrations\\20251126164337_AddThemePreference.cs",
-              "RelativeDocumentMoniker": "BombermanServer\\Migrations\\20251126164337_AddThemePreference.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Migrations\\20251126164337_AddThemePreference.cs",
-              "RelativeToolTip": "BombermanServer\\Migrations\\20251126164337_AddThemePreference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T16:43:37.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HighScore.cs",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Properties\\Models\\HighScore.cs",
-              "RelativeDocumentMoniker": "BombermanServer\\Properties\\Models\\HighScore.cs",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\Properties\\Models\\HighScore.cs",
-              "RelativeToolTip": "BombermanServer\\Properties\\Models\\HighScore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T21:28:44.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "BombermanServer.csproj",
-              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\BombermanServer.csproj",
+              "DocumentMoniker": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\BombermanServer.csproj",
               "RelativeDocumentMoniker": "BombermanServer\\BombermanServer.csproj",
-              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\c #\\BombermanServer\\BombermanServer\\BombermanServer.csproj",
+              "ToolTip": "C:\\Users\\Kani Can\\OneDrive\\Desktop\\Bomberman_Multiplayer_Project\\BombermanServer\\BombermanServer\\BombermanServer.csproj",
               "RelativeToolTip": "BombermanServer\\BombermanServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

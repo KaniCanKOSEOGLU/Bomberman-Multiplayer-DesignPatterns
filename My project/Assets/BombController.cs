@@ -24,7 +24,7 @@ public class BombController : MonoBehaviour
             Instantiate(explosionPrefab, transform.position, Quaternion.identity);
         }
 
-        // Ses Çal
+        // Ses Çalma
         if (AudioManager.instance != null)
             AudioManager.instance.PlaySFX(AudioManager.instance.explosion);
 
@@ -32,7 +32,7 @@ public class BombController : MonoBehaviour
         // Menzili dinamik olarak gönderiyoruz
         GameEventManager.TriggerExplosion(transform.position, explosionRange);
 
-        // 3. YOK OL
+        // 3. YOK OLMA
         Destroy(gameObject);
     }
 }

@@ -7,7 +7,7 @@ public class GameEventManager : MonoBehaviour
     public static event Action<Vector2, float> OnExplosion;
     public static event Action<string> OnPlayerDeath;
 
-    // Patlama Olayýný Tetikle
+    // Patlama Olayýný Tetikleme
     public static void TriggerExplosion(Vector2 position, float range)
     {
         if (OnExplosion != null)
@@ -16,7 +16,7 @@ public class GameEventManager : MonoBehaviour
         }
     }
 
-    // Ölüm Olayýný Tetikle
+    // Ölüm Olayýný Tetikleme
     public static void TriggerPlayerDeath(string tag)
     {
         if (OnPlayerDeath != null) OnPlayerDeath.Invoke(tag);

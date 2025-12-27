@@ -12,7 +12,7 @@ public class ThemeManager : MonoBehaviour
 
     void Start()
     {
-        // Hafýzadan son seçilen temayý al (Lokal)
+        // Hafýzadan son seçilen temayý alýr (Lokal)
         int savedThemeID = PlayerPrefs.GetInt("LocalThemeID", 0);
         SetTheme(savedThemeID, false);
     }
@@ -40,13 +40,12 @@ public class ThemeManager : MonoBehaviour
                 break;
         }
 
-        // 2. Haritayý Oluþtur (Seed yok, düz oluþtur)
+        // 2. Haritayý Oluþturma (Seed yok, düz oluþtur)
         mapGenerator.GenerateMap();
 
-        // 3. Sadece Cihaza Kaydet (Sunucuya gönderme kodunu kaldýrdýk)
+        // 3. Sadece Cihaza Kaydet (Sunucuya göndermez)
         PlayerPrefs.SetInt("LocalThemeID", themeID);
         PlayerPrefs.Save();
 
-        // *** HATALI SATIR SÝLÝNDÝ (NetworkManager.SaveThemePreference) ***
     }
 }
